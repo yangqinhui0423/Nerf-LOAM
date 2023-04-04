@@ -61,7 +61,7 @@ The code and usage details will be available soon.
 
 Any questions or suggestions are welcome!
 
-Junyuan Deng: djuney@sjtu.edu.cn and Xieyuanli Chen: xieyuanli.chen@nudt.edu.cn
+Junyuan Deng: d.juney@sjtu.edu.cn and Xieyuanli Chen: xieyuanli.chen@nudt.edu.cn
 
 ## License
 
